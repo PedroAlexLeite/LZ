@@ -1,4 +1,4 @@
-#Python3 decompress.py ficheiro.lz ficheiro2.txt
+#Python3 decompress.py ficheiro.lz tes02-allones.128.bin
 import sys
 from bitstring import Bits, BitArray
 import math
