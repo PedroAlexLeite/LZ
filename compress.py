@@ -1,4 +1,4 @@
-#Python3 compress.py ficheiro.txt ficheiro.lz
+#Python3 compress.py test01-allones.128.bin ficheiro.lz
 import sys
 from bitstring import Bits, BitArray
 import math
